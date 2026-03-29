@@ -100,5 +100,4 @@ cd ~/.claude/skills/broll-finder && git pull
 ## Notes
 
 - YouTube downloads are for editorial reference and B-roll use. Verify licensing before broadcast use.
-- Reuters and AP videos require a direct video URL (not a homepage link) to attempt download.
 - Instagram Reels may require login cookies — Claude will notify you if this is the case.
